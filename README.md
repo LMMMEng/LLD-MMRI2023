@@ -1,2 +1,2 @@
 # Test
-This is a test file
+The content will be displayed after the proposal has been accepted
