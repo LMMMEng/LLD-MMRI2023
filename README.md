@@ -1,4 +1,5 @@
-# Liver Lesion Classification Challenge on Multi-phase MRI (LLD-MMRI2023)
+# Liver Lesion Classification Challenge on Multi-phase MRI (LLD-MMRI2023).   
+<img src="https://github.com/LMMMEng/LLD-MMRI2023/blob/main/images/logo.png" width="600"/><br/>
 ## **Registration**   
 Please carefully fill out the [form](example.com) and send it to xxx@xxx.com, we will reply to the review results by email within 10 days.  
 ## **Dataset**   
