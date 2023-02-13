@@ -1,6 +1,6 @@
 # Liver Lesion Classification Challenge on Multi-phase MRI (LLD-MMRI2023)
 ## **Registration**   
-Please carefully fill out the [form](example.com) and send it to xxx@xxx.com, we will reply the review result by email.  
+Please carefully fill out the [form](example.com) and send it to xxx@xxx.com, we will reply to the review results by email within 10 days.  
 ## **Dataset**   
 Dataset can be downloaded at: [Google Drive](example.com), [BaiduNetDisk](example.com).     
 ## **Training**      
