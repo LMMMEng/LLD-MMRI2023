@@ -15,4 +15,5 @@ Please sent your prediction file to xxx@xxx.com, we will get back to you when we
 ## **Leaderboard**    
 We will present and update the leaderboard here.
 ## **Acknowledgement**  
+**Ningbo Medical Center Lihuili Hospital** provided the dataset. 
 **Deepwise Healthcare** and **The University of Hong Kong** will provide funding for the challenge. Many thanks!
