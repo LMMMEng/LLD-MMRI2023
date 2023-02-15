@@ -13,7 +13,6 @@ Please carefully fill out the [form](example.com) and send it to xxx@xxx.com, we
 Training cases: 316   
 Validation cases: 78   
 Test cases: 104   
-
 ## **Training**      
 We will provide code for data loading, model training and evaluation, and prediction in this repository. You can follow the provided baseline to design and evaluate your model.   
 The code will be published on Apr 28.
@@ -23,7 +22,7 @@ It is suggested to use our provided code to generate predictions on the test set
 The code will be published on Apr 28.
 ## **Submission**     
 Please sent your prediction file to xxx@xxx.com, we will get back to you when we receive the results.   
-**Note**: In each test stage, if a team submits multiple times, we will only use the first submission.
+**Note**: There will be four submission stage between Mar 30 and July 30. In each stage, if a team commits multiple times, we will only use the first successful commit.   
 ## **Leaderboard**    
 We will present and update the leaderboard here.    
 The ranking was determined by the average of the F1-score and Cohen's Kappa coefficient.    
