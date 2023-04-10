@@ -3,7 +3,7 @@
 ## **Purpose**   
 Liver cancer remains one of the most severe diseases threatening human health globally, while multi-phase contrast-enhanced magnetic resonance imaging (MRI) can deliver more accurate liver lesion diagnosis. Therefore, we plan to host the first Liver Lesion Diagnosis Challenge on Multi-phase MRI (termed LLD-MMRI2023) to promote the research of such CAD systems.
 ## **Registration**   
-Please carefully fill out the [form]([example.com](https://forms.gle/TaULgdBM7HKtbfJ97), we will reply to the review results by email within 10 days.  
+Please carefully fill out the [form](https://forms.gle/TaULgdBM7HKtbfJ97), we will reply to the review results by email within 10 days.  
 ## **Dataset**   
 1. Dataset can be downloaded at: [Google Drive](example.com), [BaiduNetDisk](example.com).    
 The training set, validation set, and test set will be released sequentially in three stages. First, the training dataset (with annotations) and the validation dataset (without annotations) will be released on April 28th. Second, annotations on the validation set will be accessible on July 8th. Third, the test dataset (without annotations) will be released on August 2nd.     
