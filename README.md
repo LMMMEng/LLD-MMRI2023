@@ -5,7 +5,7 @@ Liver cancer remains one of the most severe diseases threatening human health gl
 ## **Registration**   
 Please carefully fill out the [form](https://forms.gle/TaULgdBM7HKtbfJ97), we will reply to the review results by email within 10 days.  
 ## **Dataset (Coming Soon)**   
-1. Dataset can be downloaded at: [Google Drive](example.com), [BaiduNetDisk](example.com).    
+1. Dataset can be downloaded at: The download link will be presented on 4.28.    
 The training set, validation set, and test set will be released sequentially in three stages. First, the training dataset (with annotations) and the validation dataset (without annotations) will be released on April 28th. Second, annotations on the validation set will be accessible on July 8th. Third, the test dataset (without annotations) will be released on August 2nd.     
 2. The datasets includes the acquired full volume data with lesion bounding box and our pre-cropped lesion patch.   
 3. There is 7 different lesion types including including 4 benign types (Hepatic hemangioma, Hepatic abscess, Hepatic cysts, and Focal nodular hyperplasia) and 3 malignant types (Intrahepatic cholangiocarcinoma, Liver metastases, and Hepatocellular carcinoma).   
