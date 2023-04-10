@@ -2,7 +2,7 @@
 <img src="https://github.com/LMMMEng/LLD-MMRI2023/blob/main/images/logo.png" width="600"/><br/>
 ## **Purpose**   
 Liver cancer remains one of the most severe diseases threatening human health globally, while multi-phase contrast-enhanced magnetic resonance imaging (MRI) can deliver more accurate liver lesion diagnosis. Therefore, we plan to host the first Liver Lesion Diagnosis Challenge on Multi-phase MRI (termed LLD-MMRI2023) to promote the research of such CAD systems.
-## **Registration**   
+## **Registration (In Progress)**   
 Please carefully fill out the :point_right:**[form](https://forms.gle/TaULgdBM7HKtbfJ97)**, we will reply to the review results by email within 10 days.  
 ## **Dataset (Coming Soon)**   
 1. Dataset can be downloaded at: The download link will be presented on **April 28th**.    
