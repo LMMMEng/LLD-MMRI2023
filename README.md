@@ -35,4 +35,6 @@ To ensure the fairness of the challenge, the top-10 teams will be required to di
 3. We will award prizes of $5000-$10,000 to the top-5 finishers according to the rankings, including one first-place prize, one second-place prize, and one to three third-place prizes.  
 ## **Acknowledgement**  
 **Ningbo Medical Center Lihuili Hospital** provided the dataset.    
-**Deepwise Healthcare** and **The University of Hong Kong** will provide funding for the challenge. Many thanks!
+**Deepwise Healthcare** and **The University of Hong Kong** will provide funding for the challenge. Many thanks!   
+## **Contact**  
+If you have any queries, please feel free to contact **lld_mmri@yeah.net**, or open an issue.
