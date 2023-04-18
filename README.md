@@ -3,7 +3,7 @@
 ## :dart: **Objective**     
 Liver cancer is a severe disease that poses a significant threat to global human health. To enhance the accuracy of liver lesion diagnosis, multi-phase contrast-enhanced magnetic resonance imaging (MRI) has emerged as a promising tool. In this context, we aim to initiate the inaugural Liver Lesion Diagnosis Challenge on Multi-phase MRI (LLD-MMRI2023) to encourage the development and advancement of computer-aided diagnosis (CAD) systems in this domain.
 ## :memo: **Registration (In Progress)**   
-Registration is currently underway. We kindly request participants to accurately and thoroughly complete the form available at **[:link:](https://forms.gle/TaULgdBM7HKtbfJ97)**. The review outcome will be communicated via email within a period of 10 days.    
+Registration is currently underway. We kindly request participants to accurately and thoroughly complete the **[registration form](https://forms.gle/TaULgdBM7HKtbfJ97)**. The registration outcome will be communicated via email within 3 days.    
 ## :file_folder: **Dataset (Coming Soon)**   
 1. The training set, validation set, and test set will be made available in three stages. The training dataset (with annotations) and the validation dataset (without annotations) will be released first on **April 28th**. Annotations on the validation set will be accessible on **July 8th**, and the test dataset (without annotations) will be released on **August 2nd**.     
 2. The datasets include full volume data, lesion bounding boxes, and pre-cropped lesion patches.   
@@ -42,9 +42,9 @@ To ensure fairness in the challenge, the top 10 teams will be required to disclo
 1. All the results shall be publicly displayed on the leaderboard.
 2. The top 5 teams on the leaderboard shall be invited to give a 5-10 minute presentation for the MICCAI2023 challenge session. 
 3. The prizes are as follows:    
-   :1st_place_medal: First prize: :dollar:3,000 for one winner;     
-   :2nd_place_medal: Second prize: :dollar:1,000 for one winner;    
-   :3rd_place_medal: Third prize: :dollar:500 for one to three winners.   
+   :1st_place_medal: First prize: **US$3,000** for one winner;     
+   :2nd_place_medal: Second prize: **US$1,000** for one winner;    
+   :3rd_place_medal: Third prize: **US$500** for one to three winners.   
  
 ## **🤝 Acknowledgement**  
 We would like to acknowledge the following organizations for their support in making this challenge possible:    
