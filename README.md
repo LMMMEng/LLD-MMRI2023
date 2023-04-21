@@ -44,7 +44,7 @@ To ensure fairness in the challenge, the top 10 teams will be required to disclo
 3. The prizes are as follows:    
    :1st_place_medal: First prize: **US$3,000** for one winner;     
    :2nd_place_medal: Second prize: **US$1,000** for one winner;    
-   :3rd_place_medal: Third prize: **US$500** for one to three winners.   
+   :3rd_place_medal: Third prize: **US$500** for two to three winners.   
  
 ## **🤝 Acknowledgement**  
 We would like to acknowledge the following organizations for their support in making this challenge possible:    
