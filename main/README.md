@@ -46,7 +46,7 @@ Descriptions:
 
 **images**: There are train and validation data in the ```images``` directory. Each folder with MR at the beginning represents a patient case, and each case contains eight whole MRI volumes, each of which represents a single scanning phase and is saved as a nii.gz file. **You need to diagnose the category of liver lesions for a patient based on the corresponding 8 volumes**.  
 
-**labels**: The ```Annotation.json``` contains the bounding box information and the category information of the lesions. The corresponding labels of liver lesions in each category are as follows:
+**labels**: The ```Annotation.json``` contains the true volume spacing information, bounding box information, and the category information of the lesions. The corresponding labels of liver lesions in each category are as follows:
 ```
 "Hepatic_hemangioma": 0,
 "Intrahepatic_cholangiocarcinoma": 1,
