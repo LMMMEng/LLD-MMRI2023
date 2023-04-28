@@ -28,7 +28,7 @@ Training cases: 316
 Validation cases: 78   
 Test cases: 104   
 
-- [ ] April 28th: Release the training set (with annotations), validation set (without annotations), and baseline code
+- [X] April 28th: Release the training set (with annotations), validation set (without annotations), and baseline code
 - [ ] July 8th: Release the annotations of the validation set
 - [ ] August 2nd: Release the test set (without annotations)
 
