@@ -20,8 +20,8 @@ $ pip install -r requirements.txt
 Download and extract training dataset:  
 
 ```
-cat lld_mmri2023_part0* > lld_mmri2023.zip
-unzip lld_mmri2023.zip
+$ cat lld_mmri2023_part0* > lld_mmri2023.zip
+$ unzip lld_mmri2023.zip
 ```
 
 The data are stored in the following structure:   
