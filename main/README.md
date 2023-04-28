@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 
 ## Data Preparation
 ### 1. Download and extract dataset
-Download and extract training dataset from [here](data_link), the data are stored in the following structure:   
+Download and extract training dataset, the data are stored in the following structure:   
 ```
 data directory structure：
 ├── images
