@@ -138,10 +138,12 @@ $ python3 -m torch.distributed.launch --master_port=$((RANDOM+10000)) --nproc_pe
 ```
 
 ## Prediction
-We accept submissions in the form of a Json file containing the predicted results at the specified time, the details will be notified to the registered participants via email. You will get the baseline inference results by running the following command:
+We accept submissions in the form of a Json file containing the predicted results at the specified time, the details will be notified to the registered participants via email.  
+
+You can download the [trained model weights](https://github.com/LMMMEng/LLD-MMRI2023/releases/download/release-v1/best_f1_checkpoint-216.pth.tar) and use the following command to make predictions:
 
 ```
-$ python3 predict.py --data_dir data/classification_dataset/images --val_anno_file data/classification_dataset/labels/labels_val_inaccessible.txt --model uniformer_small_IL --batch-size 8 --checkpoint output/20230411-192839-uniformer_small_IL/best_f1_checkpoint-216.pth.tar --results-dir output/20230411-192839-uniformer_small_IL/ --team_name LLDBaseline
+$ python3 predict.py --data_dir data/classification_dataset/images --val_anno_file data/classification_dataset/labels/labels_val_inaccessible.txt --model uniformer_small_IL --batch-size 8 --checkpoint best_f1_checkpoint-216.pth.tar --results-dir output/20230411-192839-uniformer_small_IL/ --team_name LLDBaseline
 ```
 
 You can also retrain the baseline model, once you have a satisfactory model, please generate a prediction file on the validation set by running the following command:
