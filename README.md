@@ -1,5 +1,19 @@
 # Liver Lesion Diagnosis Challenge on Multi-phase MRI (LLD-MMRI2023).   
 <img src="https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/img.png" width="600"/><br/>
+
+## 🆕 **News**
+* 2023-4-28: Code and Training/Validation Dataset Release.
+
+  * We’ve enabled access to the baseline code [here](https://github.com/LMMMEng/LLD-MMRI2023/tree/main/main) and released training/validation dataset via email.
+Participants who successfully registered as of April 28th have received emails with data download link , if not, please contact us with your team name at **lld_mmri@yeah.net**.
+  
+  * Participants who registered after April 28th will receive an email with data link within three working days.
+
+* 2023-4-18: Registration Channel Now Open for Participants
+
+   * Registration channel for the upcoming LLD-MMRI2023 is now open! Please complete the **[registration form](https://forms.gle/TaULgdBM7HKtbfJ97)** and you will receive an email from LLD-MMRI2023 group within 3 days. We look forward to welcoming you there!
+
+
 ## :dart: **Objective**     
 Liver cancer is a severe disease that poses a significant threat to global human health. To enhance the accuracy of liver lesion diagnosis, multi-phase contrast-enhanced magnetic resonance imaging (MRI) has emerged as a promising tool. In this context, we aim to initiate the inaugural Liver Lesion Diagnosis Challenge on Multi-phase MRI (LLD-MMRI2023) to encourage the development and advancement of computer-aided diagnosis (CAD) systems in this domain.
 ## :memo: **Registration (In Progress)**   
