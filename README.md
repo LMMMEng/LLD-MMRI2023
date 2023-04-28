@@ -20,7 +20,7 @@ Liver cancer is a severe disease that poses a significant threat to global human
 Registration is currently underway. We kindly request participants to accurately and thoroughly complete the **[registration form](https://forms.gle/TaULgdBM7HKtbfJ97)**. The registration outcome will be communicated via email within 3 days. Please check for spam if you do not receive a reply for a long time.    
 
 ## :file_folder: **Dataset**   
-** Note:  The data is restricted to research use only, you can not use this data for commercial purposes. **
+**Note: The dataset is restricted to research use only, you can not use this data for commercial purposes.**
 1. The training set, validation set, and test set will be made available in three stages. The training dataset (with annotations) and the validation dataset (without annotations) will be released first on **April 28th**. Annotations on the validation set will be accessible on **July 8th**, and the test dataset (without annotations) will be released on **August 2nd**.     
 2. The datasets include full volume data, lesion bounding boxes, and pre-cropped lesion patches.   
 3. The dataset comprises 7 different lesion types, including 4 benign types (Hepatic hemangioma, Hepatic abscess, Hepatic cysts, and Focal nodular hyperplasia) and 3 malignant types (Intrahepatic cholangiocarcinoma, Liver metastases, and Hepatocellular carcinoma). Participants are required to make a diagnosis of the type of liver lesion in each case.     
