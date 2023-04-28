@@ -36,11 +36,13 @@ Test cases: 104
 
 ## 🖥️ **Training**      
 We shall provide the code for data loading, model training/evaluation, and prediction in this repository. Participants can design and evaluate their models following the provided baseline. The code will be published on **April 28th**.     
-**Note**: Additional public datasets are allowed for model training and/or pre-training.  
+**Note**: Additional public datasets are allowed for model training and/or pre-training, but private data is not allowed.  
+
 ## 🖥️ **Prediction**    
 We highly suggest using our provided code to generate predictions.    
 **Note**: If participants intend to use their prediction style, please ensure that the format of the prediction results is exactly the same as the template we provide.       
 The code will be published on **April 28th**.   
+
 ## **📤 Submission**     
 Participants should send their prediction results to the designated email address (the email address will be notified by email to the registered participants), and we shall acknowledge receipt.   
 **Note**: The challenge comprises four evaluation stages. In the first three stages, we shall update the ranking based on the predicted results of the algorithm on the validation set. Participants will have a 24-hour submission window on **May 26th**, **June 16th**, and **July 7th** to submit their prediction results. On July 8th, annotations on the validation set will be released to further support model design and training. In the final stage, the test set (without annotations) will be released on **August 2nd**. Participants are required to submit their predictions on **August 4th**, and the predicted results at this stage will determine the final ranking.      
@@ -53,8 +55,10 @@ Participants should send their prediction results to the designated email addres
 ## :trophy: **Leaderboard**    
 We shall present and update the leaderboard on our website.    
 The ranking shall be determined by the average of the **F1-score** and **Cohen's Kappa coefficient**.    
+
 ## **🔍 Verification**    
-To ensure fairness in the challenge, the top 10 teams will be required to disclose their codes and model weights on GitHub or other publicly accessible websites for verification. We shall use these codes and model weights to verify that the reproduced results are consistent with the submitted predictions. Failure to disclose codes and model weights within the stipulated time frame shall lead to removal from the leaderboard. In case of serious discrepancies detected using disclosed codes and model weights, we shall notify the corresponding teams to take remedial actions. Failure to comply within the allotted time will lead to removal from the leaderboard, and the leaderboard will be adjusted accordingly. New teams that subsequently enter the top 10 will also be required to comply with the same rules. If you use additional public datasets, you also need to disclose them; however, such disclosure will not impact your ranking.         
+To ensure fairness in the challenge, we do not allow to use private data. You have to ensure the reproducibility of the model. The top 10 teams will be required to disclose their codes and model weights on GitHub or other publicly accessible websites for verification. We shall use these codes and model weights to verify that the reproduced results are consistent with the submitted predictions. Failure to disclose codes and model weights within the stipulated time frame shall lead to removal from the leaderboard. In case of serious discrepancies detected using disclosed codes and model weights, we shall notify the corresponding teams to take remedial actions. Failure to comply within the allotted time will lead to removal from the leaderboard, and the leaderboard will be adjusted accordingly. New teams that subsequently enter the top 10 will also be required to comply with the same rules. If you use additional public datasets, you also need to disclose them; however, such disclosure will not impact your ranking.   
+
 ## 🏅 **Announcement**  
 1. All the results shall be publicly displayed on the leaderboard.
 2. The top 5 teams on the leaderboard shall be invited to give a 5-10 minute presentation for the MICCAI2023 challenge session. 
