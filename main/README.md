@@ -15,7 +15,14 @@ $ pip install -r requirements.txt
 ## Data Preparation
 ### 1. Download and extract dataset
 **Note**: Registered participants will receive the download link via email within 3 working days. If you do not receive it for a long time, please check the spam email or contact us via lld_mmri@yeah.net.   
-Download and extract training dataset, the data are stored in the following structure:   
+Download and extract training dataset, 
+
+```
+cat lld_mmri2023_part0* > lld_mmri2023.zip
+unzip lld_mmri2023.zip
+```
+
+The data are stored in the following structure:   
 ```
 data directory structure：
 ├── images
