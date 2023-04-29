@@ -9,7 +9,7 @@ Participants who successfully registered as of April 28th have received emails w
   
   * Participants who registered after April 28th will receive an email with data link within three working days.
 
-* 2023-4-18: Registration Channel Now Open for Participants
+* 2023-4-14: Registration Channel Now Open for Participants
 
    * Registration channel for the upcoming LLD-MMRI2023 is now open! Please complete the **[registration form](https://forms.gle/TaULgdBM7HKtbfJ97)** and you will receive an email from LLD-MMRI2023 group within 3 days. We look forward to welcoming you there!
 
