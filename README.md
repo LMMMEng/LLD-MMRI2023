@@ -4,11 +4,11 @@
 ## 🆕 **News**
 * 2023-5-26: First Result Submission on Validation Set.
 
- * The submission window is open from 00:00 to 24:00 on May 26th. Only the last submission within this timeframe will be considered. Early or late submissions will not be processed. 
+  * The submission window is open from 00:00 to 24:00 on May 26th. Only the last submission within this timeframe will be considered. Early or late submissions will not be processed. 
 
- * The corresponding person should send the JSON file,  which should be named using your team name (e.g., TeamName.json), and the subject line of the email should follow this format: Prediction submission-Your Registered Team Name (e.g., Prediction submission-TeamName).
+  * The corresponding person should send the JSON file,  which should be named using your team name (e.g., TeamName.json), and the subject line of the email should follow this format: Prediction submission-Your Registered Team Name (e.g., Prediction submission-TeamName).
  
- * Specific precautions have been sent to the corresponding person by email, if you do not receive the email, please contact us at **lld_mmri@yeah.net**.
+  * Specific precautions have been sent to the corresponding person by email, if you do not receive the email, please contact us at **lld_mmri@yeah.net**.
 
 * 2023-4-28: Code and Training/Validation Dataset Release.
 
