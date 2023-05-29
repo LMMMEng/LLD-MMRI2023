@@ -2,6 +2,10 @@
 <img src="https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/img.png" width="600"/><br/>
 
 ## 🆕 **News**
+* 2023-5-29: Leaderboard for the First Submission on Validation Set Release.    
+
+  * You can download the leaderboard [here](https://github.com/LMMMEng/LLD-MMRI2023/releases/download/release-v1/validation_leaderboard_1st.xlsx). 
+
 * 2023-5-26: First Result Submission on Validation Set.
 
   * The submission window is open from 00:00 to 24:00 on May 26th. Only the last submission within this timeframe will be considered. Early or late submissions will not be processed. 
@@ -26,6 +30,7 @@ Participants who successfully registered as of April 28th have received emails w
 Liver cancer is a severe disease that poses a significant threat to global human health. To enhance the accuracy of liver lesion diagnosis, multi-phase contrast-enhanced magnetic resonance imaging (MRI) has emerged as a promising tool. In this context, we aim to initiate the inaugural Liver Lesion Diagnosis Challenge on Multi-phase MRI (LLD-MMRI2023) to encourage the development and advancement of computer-aided diagnosis (CAD) systems in this domain.
 ## :memo: **Registration (In Progress)**   
 Registration is currently underway. We kindly request participants to accurately and thoroughly complete the **[registration form](https://forms.gle/TaULgdBM7HKtbfJ97)**. The registration outcome will be communicated via email within 3 days. Please check for spam if you do not receive a reply for a long time.    
+**Note**: Registration channel will close on  **June 17th**.
 
 ## :file_folder: **Dataset**   
 **Note: The dataset is restricted to research use only, you can not use this data for commercial purposes.**
@@ -80,4 +85,4 @@ We would like to acknowledge the following organizations for their support in ma
 Ningbo Medical Center Lihuili Hospital for providing the dataset.    
 Deepwise Healthcare and The University of Hong Kong for organizing and providing funding for the challenge.  
 ## :e-mail: **Contact**  
-Should you have any questions, please feel free to contact the organizers at **lld_mmri@yeah.net** or open an [issue](https://github.com/LMMMEng/LLD-MMRI2023/issues).
+Should you have any questions, please feel free to contact the organizers at **lld_mmri@yeah.net** or open an **[issue](https://github.com/LMMMEng/LLD-MMRI2023/issues)**.
