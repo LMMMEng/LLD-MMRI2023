@@ -60,7 +60,7 @@ The code will be published on **April 28th**.
 Participants should send their prediction results to the designated email address (the email address will be notified by email to the registered participants), and we shall acknowledge receipt.   
 **Note**: The challenge comprises four evaluation stages. In the first three stages, we shall update the ranking based on the predicted results of the algorithm on the validation set. Participants will have a 24-hour submission window on **May 26th**, **June 16th**, and **July 7th** to submit their prediction results. On July 8th, annotations on the validation set will be released to further support model design and training. In the final stage, the test set (without annotations) will be released on **August 2nd**. Participants are required to submit their predictions on **August 4th**, and the predicted results at this stage will determine the final ranking.      
 
-- [ ] May 26th: The first submission of the predicted results on the validation set
+- [X] May 26th: The first submission of the predicted results on the validation set
 - [ ] June 16th: The second submission of the predicted results on the validation set
 - [ ] July 7th: The third submission of the predicted results on the validation set
 - [ ] August 4th: The submission of the predicted results on the test set (this will be used for the final leaderboard).     
