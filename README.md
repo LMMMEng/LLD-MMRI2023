@@ -4,7 +4,7 @@
 ## 🆕 **News**
 * 2023-5-29: Leaderboard for the First Submission on Validation Set Release.    
 
-  * You can download the leaderboard [here](https://github.com/LMMMEng/LLD-MMRI2023/releases/download/release-v1/validation_leaderboard_1st.xlsx). 
+  * You can download the leaderboard **[here](https://github.com/LMMMEng/LLD-MMRI2023/releases/download/release-v1/validation_leaderboard_1st.xlsx)**. 
 
 * 2023-5-26: First Result Submission on Validation Set.
 
