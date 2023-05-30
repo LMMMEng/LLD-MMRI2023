@@ -63,11 +63,11 @@ def build_dataset(lab_path, save_dir, num_folds=5, num_classes=7):
 
 if __name__ == "__main__":
     import argparse
-    config_parser = parser = argparse.ArgumentParser(description='Data preprocessing Config', add_help=False)
-    parser = parser.add_argument('--lab-path', default='', type=str)
-    parser = parser.add_argument('--save-dir', default='', type=str)
-    parser = parser.add_argument('--num-folds', default=5, type=int)
-    parser = parser.add_argument('--seed', default=66, type=int)
+    parser = argparse.ArgumentParser(description='Data preprocessing Config', add_help=False)
+    parser.add_argument('--lab-path', default='', type=str)
+    parser.add_argument('--save-dir', default='', type=str)
+    parser.add_argument('--num-folds', default=5, type=int)
+    parser.add_argument('--seed', default=66, type=int)
     args = parser.parse_args()
     random.seed(args.seed) ## Adjust according to model performance
     # lab_path = 'data/classification_dataset/labels/labels.txt'
