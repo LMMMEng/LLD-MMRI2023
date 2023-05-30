@@ -97,10 +97,10 @@ def crop_lesion(data_dir, json_path, save_dir, xy_extension=16, z_extension=2):
 
 if __name__ == "__main__":
     import argparse
-    config_parser = parser = argparse.ArgumentParser(description='Data preprocessing Config', add_help=False)
-    parser = parser.add_argument('--data-dir', default='', type=str)
-    parser = parser.add_argument('--anno-path', default='', type=str)
-    parser = parser.add_argument('--save-dir', default='', type=str)
+    parser = argparse.ArgumentParser(description='Data preprocessing Config', add_help=False)
+    parser.add_argument('--data-dir', default='', type=str)
+    parser.add_argument('--anno-path', default='', type=str)
+    parser.add_argument('--save-dir', default='', type=str)
     args = parser.parse_args()
     # data_dir = 'data/images/'
     # anno_path = 'data/labels/Annotation.json'
