@@ -63,6 +63,8 @@ Descriptions:
 "Hepatic_cyst": 4,
 "FOCAL_NODULAR_HYPERPLASIA": 5,
 "Hepatocellular_carcinoma": 6,
+"Benign": [0, 2, 4, 5],
+"Malignant": [1, 3, 6],
 "Inaccessible": -1
 ```
 **Note**: **-1** indicates that category labels have not been provided for this data, on which you need to make predictions and submissions. In other words, a case with the label **-1** means the data belongs to the validation set.
