@@ -2,6 +2,16 @@
 <img src="https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/img.png" width="600"/><br/>
 
 ## 🆕 **News**
+
+* 2023-6-16: Second Result Submission on Validation Set.
+
+  * The submission window is open from 00:00 to 24:00 on Jun 16th. Only the last submission within this timeframe will be considered. Early or late submissions will not be processed. 
+
+  * The corresponding person should send the ``JSON`` file,  which should be named using your team name (e.g., ``TeamName.json``), and the subject line of the email should follow this format: Prediction submission-Your Registered Team Name (e.g., ``Prediction submission-TeamName``).
+ 
+  * Specific precautions have been sent to the corresponding person by email, if you do not receive the email, please contact us at **lld_mmri@yeah.net**.
+
+
 * 2023-5-29: Leaderboard for the First Submission on Validation Set Release.    
 
   * You can download the leaderboard **[here](https://github.com/LMMMEng/LLD-MMRI2023/releases/download/release-v1/validation_leaderboard_1st.xlsx)**. 
@@ -10,7 +20,7 @@
 
   * The submission window is open from 00:00 to 24:00 on May 26th. Only the last submission within this timeframe will be considered. Early or late submissions will not be processed. 
 
-  * The corresponding person should send the JSON file,  which should be named using your team name (e.g., TeamName.json), and the subject line of the email should follow this format: Prediction submission-Your Registered Team Name (e.g., Prediction submission-TeamName).
+  * The corresponding person should send the ``JSON`` file,  which should be named using your team name (e.g., ``TeamName.json``), and the subject line of the email should follow this format: Prediction submission-Your Registered Team Name (e.g., ``Prediction submission-TeamName``).
  
   * Specific precautions have been sent to the corresponding person by email, if you do not receive the email, please contact us at **lld_mmri@yeah.net**.
 
