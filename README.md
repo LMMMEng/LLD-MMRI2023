@@ -3,6 +3,11 @@
 
 ## 🆕 **News**
 
+* 2023-6-18: Registration Close.    
+   
+  * The registration channel is now closed.
+  * We will release the download link of the dataset after the challenge is completed.
+
 * 2023-6-16: Second Result Submission on Validation Set.
 
   * The submission window is open from 00:00 to 24:00 on Jun 16th. Only the last submission within this timeframe will be considered. Early or late submissions will not be processed. 
@@ -38,7 +43,7 @@ Participants who successfully registered as of April 28th have received emails w
 
 ## :dart: **Objective**     
 Liver cancer is a severe disease that poses a significant threat to global human health. To enhance the accuracy of liver lesion diagnosis, multi-phase contrast-enhanced magnetic resonance imaging (MRI) has emerged as a promising tool. In this context, we aim to initiate the inaugural Liver Lesion Diagnosis Challenge on Multi-phase MRI (LLD-MMRI2023) to encourage the development and advancement of computer-aided diagnosis (CAD) systems in this domain.
-## :memo: **Registration (In Progress)**   
+## :memo: **Registration (Closed)**   
 Registration is currently underway. We kindly request participants to accurately and thoroughly complete the **[registration form](https://forms.gle/TaULgdBM7HKtbfJ97)**. The registration outcome will be communicated via email within 3 days. Please check for spam if you do not receive a reply for a long time.    
 **Note**: Registration channel will close on  **June 17th**.
 
