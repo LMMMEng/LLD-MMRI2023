@@ -3,6 +3,10 @@
 
 ## 🆕 **News**
 
+* 2023-6-19: Leaderboard for the Second Submission on Validation Set Release.    
+
+  * You can address the leaderboard **[here](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/validation_leaderboard_2nd.md)**. 
+
 * 2023-6-18: Registration Close.    
    
   * The registration channel is now closed.
@@ -15,7 +19,6 @@
   * The corresponding person should send the ``JSON`` file,  which should be named using your team name (e.g., ``TeamName.json``), and the subject line of the email should follow this format: Prediction submission-Your Registered Team Name (e.g., ``Prediction submission-TeamName``).
  
   * Specific precautions have been sent to the corresponding person by email, if you do not receive the email, please contact us at **lld_mmri@yeah.net**.
-
 
 * 2023-5-29: Leaderboard for the First Submission on Validation Set Release.    
 
