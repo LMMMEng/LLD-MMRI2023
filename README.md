@@ -22,8 +22,8 @@
 
 * 2023-5-29: Leaderboard for the First Submission on Validation Set Release.    
 
-  * You can download the leaderboard **[here](https://github.com/LMMMEng/LLD-MMRI2023/releases/download/release-v1/validation_leaderboard_1st.xlsx)**. 
-
+  * ~~You can download the leaderboard **[here](https://github.com/LMMMEng/LLD-MMRI2023/releases/download/release-v1/validation_leaderboard_1st.xlsx)**.~~  
+ 
 * 2023-5-26: First Result Submission on Validation Set.
 
   * The submission window is open from 00:00 to 24:00 on May 26th. Only the last submission within this timeframe will be considered. Early or late submissions will not be processed. 
@@ -79,7 +79,7 @@ Participants should send their prediction results to the designated email addres
 **Note**: The challenge comprises four evaluation stages. In the first three stages, we shall update the ranking based on the predicted results of the algorithm on the validation set. Participants will have a 24-hour submission window on **May 26th**, **June 16th**, and **July 7th** to submit their prediction results. On July 8th, annotations on the validation set will be released to further support model design and training. In the final stage, the test set (without annotations) will be released on **August 2nd**. Participants are required to submit their predictions on **August 4th**, and the predicted results at this stage will determine the final ranking.      
 
 - [X] May 26th: The first submission of the predicted results on the validation set
-- [ ] June 16th: The second submission of the predicted results on the validation set
+- [X] June 16th: The second submission of the predicted results on the validation set
 - [ ] July 7th: The third submission of the predicted results on the validation set
 - [ ] August 4th: The submission of the predicted results on the test set (this will be used for the final leaderboard).     
 
