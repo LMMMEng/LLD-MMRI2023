@@ -3,6 +3,10 @@
 
 ## 🆕 **News**
 
+* 2023-7-7: Last Result Submission on Validation Set.
+
+  * The submission window is open from 00:00 to 24:00 on Jul 7th. Only the last submission within this timeframe will be considered. Early or late submissions will not be processed. 
+
 * 2023-6-19: Leaderboard for the Second Submission on Validation Set Release.    
 
   * You can address the leaderboard **[here](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/validation_leaderboard_2nd.md)**. 
