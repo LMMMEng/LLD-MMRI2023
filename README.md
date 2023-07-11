@@ -13,7 +13,7 @@
 
 * 2023-6-19: Leaderboard for the Second Submission on Validation Set Release.    
 
-  * You can address the leaderboard **[here](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/validation_leaderboard_2nd.md)**. 
+  * ~~You can address the leaderboard **[here](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/validation_leaderboard_2nd.md)**~~. 
 
 * 2023-6-18: Registration Close.    
    
@@ -70,7 +70,7 @@ Validation cases: 78
 Test cases: 104   
 
 - [X] April 28th: Release the training set (with annotations), validation set (without annotations), and baseline code
-- [ ] July 8th: Release the annotations of the validation set
+- [X] July 8th: Release the annotations of the validation set
 - [ ] August 2nd: Release the test set (without annotations)
 
 ## 🖥️ **Training**      
@@ -88,7 +88,7 @@ Participants should send their prediction results to the designated email addres
 
 - [X] May 26th: The first submission of the predicted results on the validation set
 - [X] June 16th: The second submission of the predicted results on the validation set
-- [ ] July 7th: The third submission of the predicted results on the validation set
+- [X] July 7th: The third submission of the predicted results on the validation set
 - [ ] August 4th: The submission of the predicted results on the test set (this will be used for the final leaderboard).     
 
 ## :trophy: **Leaderboard**    
