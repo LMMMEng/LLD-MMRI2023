@@ -4,7 +4,7 @@
 ## 🆕 **News**
 * 2023-8-8: Leaderboard for Test Release.
 
-   * The [**leaderboard**](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/provisional_leaderboard.md) is presented. Please note that this is only a temporary ranking. If the top five teams do not submit their code within two weeks, their ranking will be deleted from the leaderboard and the ranking will be postponed.
+   * The [**leaderboard**](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/provisional_leaderboard.md) is presented. Please note that this is only a temporary ranking. We ask the top five teams to publish their code within two weeks. Failure to submit your code by the designated deadline will result in removal from the leaderboard and the ranking will be postponed.
 
 
 * 2023-7-10: Validation Stage Completed.    
