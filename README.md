@@ -2,10 +2,14 @@
 <img src="https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/img.png" width="600"/><br/>
 
 ## 🆕 **News**
+* 2023-8-8: Leaderboard for Test Release.
+
+   * The [**leaderboard**](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/provisional_leaderboard.md) is presented. Please note that this is only a temporary ranking. If the top five teams do not submit their code within two weeks, their ranking will be deleted from the leaderboard and the ranking will be postponed.
+
 
 * 2023-7-10: Validation Stage Completed.    
 
-  * The [**leaderboard**](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/validation_leaderboard.md) is presented according to the highest metrics over the three submissions.
+  * ~~The [**leaderboard**](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/validation_leaderboard.md) is presented according to the highest metrics over the three submissions.~~
 
 * 2023-7-7: Last Result Submission on Validation Set.
 
