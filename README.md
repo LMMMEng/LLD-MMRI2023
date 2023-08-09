@@ -75,7 +75,7 @@ Test cases: 104
 
 - [X] April 28th: Release the training set (with annotations), validation set (without annotations), and baseline code
 - [X] July 8th: Release the annotations of the validation set
-- [ ] August 2nd: Release the test set (without annotations)
+- [X] August 2nd: Release the test set (without annotations)
 
 ## 🖥️ **Training**      
 We shall provide the code for data loading, model training/evaluation, and prediction in this repository. Participants can design and evaluate their models following the provided baseline. The code will be published on **April 28th**.     
@@ -93,7 +93,7 @@ Participants should send their prediction results to the designated email addres
 - [X] May 26th: The first submission of the predicted results on the validation set
 - [X] June 16th: The second submission of the predicted results on the validation set
 - [X] July 7th: The third submission of the predicted results on the validation set
-- [ ] August 4th: The submission of the predicted results on the test set (this will be used for the final leaderboard).     
+- [X] August 4th: The submission of the predicted results on the test set (this will be used for the final leaderboard).     
 
 ## :trophy: **Leaderboard**    
 We shall present and update the leaderboard on our website.    
