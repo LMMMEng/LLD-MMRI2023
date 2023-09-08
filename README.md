@@ -2,9 +2,13 @@
 <img src="https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/img.png" width="600"/><br/>
 
 ## 🆕 **News**
+* 2023-9-8: Final Leaderboard for Test Release.
+* 
+  You can address the leaderboard **[here](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/test_leaderboard.md)**, where you can also address the codes of the top-5 teams.
+  
 * 2023-8-8: Leaderboard for Test Release.
 
-   * The [**leaderboard**](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/provisional_leaderboard.md) is presented. Please note that this is only a temporary ranking. We ask the top five teams to publish their code within two weeks. Failure to submit your code by the designated deadline will result in removal from the leaderboard and the ranking will be postponed.
+   * ~~The [**leaderboard**](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/provisional_leaderboard.md) is presented. Please note that this is only a temporary ranking. We ask the top five teams to publish their code within two weeks. Failure to submit your code by the designated deadline will result in removal from the leaderboard and the ranking will be postponed.~~
 
 
 * 2023-7-10: Validation Stage Completed.    
@@ -54,6 +58,9 @@ Participants who successfully registered as of April 28th have received emails w
 * 2023-4-14: Registration Channel Now Open for Participants
 
    * Registration channel for the upcoming LLD-MMRI2023 is now open! Please complete the **[registration form](https://forms.gle/TaULgdBM7HKtbfJ97)** and you will receive an email from LLD-MMRI2023 group within 3 days. We look forward to welcoming you there!
+ 
+
+* 2023-3-4: Our [challenge proposal](https://doi.org/10.5281/zenodo.7841543) has been accepted by [MICCAI 2023](https://conferences.miccai.org/2023/en/online.asp).
 
 
 ## :dart: **Objective**     
