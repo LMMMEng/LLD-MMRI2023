@@ -3,8 +3,8 @@
 
 ## 🆕 **News**
 * 2023-9-8: Final Leaderboard for Test Release.
-* 
-  You can address the leaderboard **[here](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/test_leaderboard.md)**, where you can also address the codes of the top-5 teams.
+ 
+  * You can address the leaderboard **[here](https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/test_leaderboard.md)**, where you can also address the codes of the top-5 teams.
   
 * 2023-8-8: Leaderboard for Test Release.
 
