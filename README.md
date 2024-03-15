@@ -2,9 +2,9 @@
 <img src="https://github.com/LMMMEng/LLD-MMRI2023/blob/main/assets/img.png" width="600"/><br/>
 
 ## 🆕 **News**
-* 2023-2-28: Dataset Release.
+* **2023-2-28: 🔥🔥🔥Dataset Release.**
   
-   * The dataset is accessible at **[here](https://github.com/LMMMEng/LLD-MMRI-Dataset)**. We provide annotations for an additional 104 cases (i.e., test set), which is not incorporated within this challenge.
+   * **The dataset is accessible at **[here](https://github.com/LMMMEng/LLD-MMRI-Dataset)**. We provide annotations for an additional 104 cases (i.e., test set), which is not incorporated within this challenge.**
 
 * 2023-9-8: Final Leaderboard for Test Release.
  
